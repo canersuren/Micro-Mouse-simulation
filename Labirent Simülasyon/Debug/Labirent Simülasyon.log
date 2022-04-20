@@ -1,8 +1,0 @@
-﻿fltkd.lib(case.obj) : warning LNK4099: PDB '' was not found with 'fltkd.lib(case.obj)' or at ''; linking object as if no debug info
-fltkd.lib(fl_utf.obj) : warning LNK4099: PDB 'fltkd.pdb' was not found with 'fltkd.lib(fl_utf.obj)' or at 'C:\Users\caner\Desktop\c++\Labirent Simülasyon\Debug\fltkd.pdb'; linking object as if no debug info
-fltkd.lib(flstring.obj) : warning LNK4099: PDB 'fltkd.pdb' was not found with 'fltkd.lib(flstring.obj)' or at 'C:\Users\caner\Desktop\c++\Labirent Simülasyon\Debug\fltkd.pdb'; linking object as if no debug info
-fltkd.lib(is_spacing.obj) : warning LNK4099: PDB 'fltkd.pdb' was not found with 'fltkd.lib(is_spacing.obj)' or at 'C:\Users\caner\Desktop\c++\Labirent Simülasyon\Debug\fltkd.pdb'; linking object as if no debug info
-fltkd.lib(numericsort.obj) : warning LNK4099: PDB 'fltkd.pdb' was not found with 'fltkd.lib(numericsort.obj)' or at 'C:\Users\caner\Desktop\c++\Labirent Simülasyon\Debug\fltkd.pdb'; linking object as if no debug info
-fltkd.lib(scandir.obj) : warning LNK4099: PDB 'fltkd.pdb' was not found with 'fltkd.lib(scandir.obj)' or at 'C:\Users\caner\Desktop\c++\Labirent Simülasyon\Debug\fltkd.pdb'; linking object as if no debug info
-fltkd.lib(vsnprintf.obj) : warning LNK4099: PDB 'fltkd.pdb' was not found with 'fltkd.lib(vsnprintf.obj)' or at 'C:\Users\caner\Desktop\c++\Labirent Simülasyon\Debug\fltkd.pdb'; linking object as if no debug info
-  Labirent Simülasyon.vcxproj -> C:\Users\caner\Desktop\c++\Labirent Simülasyon\Debug\Labirent Simülasyon.exe
