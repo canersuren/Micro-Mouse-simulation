@@ -1,0 +1,7 @@
+﻿  Labirent Simülasyon.cpp
+C:\Users\caner\Desktop\c++\Labirent Simülasyon\FL\x.H(37,14): fatal error C1083: Cannot open include file: 'X11/Xlib.h': No such file or directory
+  Sim.cpp
+C:\Users\caner\Desktop\c++\Labirent Simülasyon\FL\x.H(37,14): fatal error C1083: Cannot open include file: 'X11/Xlib.h': No such file or directory
+  SimBox.cpp
+C:\Users\caner\Desktop\c++\Labirent Simülasyon\FL\x.H(37,14): fatal error C1083: Cannot open include file: 'X11/Xlib.h': No such file or directory
+  Generating Code...
