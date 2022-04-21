@@ -28,8 +28,7 @@ Above this function, there is statement as
 	this->simBox = new SimBox("map1.txt", 13, 2, {12, 0}, 0.2);
 ```
 this creates the simBox object which does everything for controlling simulation.
-In the constructor first arguement is your map files name. Map file must be in "Micro-Mouse-simulation/Labirent Simülasyon/" direction. Else you have to write full adress of map file like "C:\Users\caner\Desktop\c++\Micro-Mouse-simulation\Labirent Simülasyon\map1.txt". How you can create map files will be mentioned below.
-
+In the constructor first arguement is your map files name. Map file must be in "Micro-Mouse-simulation/Labirent Simülasyon/" direction. Else you have to write full adress of map file like "C:\Users\caner\Desktop\c++\Micro-Mouse-simulation\Labirent Simülasyon\map1.txt". How you can create map files will be mentioned below. Second arguement is maze map's dimension as boxes as int type. Third arguement is robot's starting direction. Forth arguement is robot's starting position. Fifth algorithm is simulation's animation speed. 
 ### Using simulation functions
 
 simBox object provides
@@ -77,11 +76,4 @@ this maps file would be like this:
 11100
 00100
 ```
-
-
-
-
-
-
-
 
